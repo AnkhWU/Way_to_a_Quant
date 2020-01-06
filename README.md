@@ -1,4 +1,4 @@
-# Way_to_a_Quant
+# Way to a Quant
 Recording my path to a competent quant. 
 
 Date: Jan. 6th, 2020
